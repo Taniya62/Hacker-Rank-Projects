@@ -1,0 +1,2 @@
+# Hacker-Rank-Projects
+I HAVE DONE SOME SQL PROJECTS
